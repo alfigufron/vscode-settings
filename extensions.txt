@@ -1,0 +1,36 @@
+- Auto Close Tag
+- Auto Rename Tag
+- Babel Javascript
+- Beautify
+- Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets
+- Bracket Pair Colorizer
+- Color Picker
+- CSS Peek
+- Dart
+- DotENV
+- EJS language support
+- ESLint
+- Flutter
+- Format HTML in PHP
+- HTML CSS Support
+- HTML Snippets
+- Indent Rainbow
+- Javascript (ES6) Code Snippets
+- Javascript Snippet Pack
+- Laravel Blade Snippets
+- Laravel Snippets
+- Live Server
+- Material Icon Theme
+- Material Theme
+- NPM
+- NPM Intellisense
+- Path Intellisense
+- PHP Debug
+- PHP Intelephense
+- PHP Intellisense
+- Prettier - Code Formatter
+- Python
+- Vetur
+- VSCode Faker
+- Vue
+- Vue 2 Snippets
