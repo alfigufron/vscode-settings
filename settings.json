@@ -1,9 +1,13 @@
-  {
+{
 	"window.zoomLevel": -1,
 	"workbench.iconTheme": "material-icon-theme",
 	"workbench.colorTheme": "Material Theme Darker High Contrast",
 	"editor.tabSize": 2, 
-	"launch": {},
+	"launch": {
+
+  
+  },
+
 
 
   // "editor.fontFamily": "Iosevka Mayukai MdEx, 'Courier New', monospace",
@@ -23,7 +27,7 @@
   },
 
 
-
+  
   // Theme 1
   // "workbench.colorCustomizations": {
   //   "activityBar.background": "#0e0e0e",
@@ -86,7 +90,7 @@
   // },
   
 
-  // Theme 1
+  // Theme 2
   "workbench.colorCustomizations": {
     "activityBar.background": "#393b44",
     "activityBar.foreground": "#d6e0f0",
@@ -179,4 +183,6 @@
   //   "source.fixAll.eslint": true
   // },
   "breadcrumbs.enabled": false,
+
+
 }
